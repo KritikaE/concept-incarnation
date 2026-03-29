@@ -1,0 +1,6 @@
+{
+  "prompt": "Aerial view of a formal English garden with a gravel path that winds in extreme, unnecessary zigzags and loops across the garden, touching every single flower bed and plant individually, when an obvious straight path from the garden gate to the door is clearly visible. The straight route is only a few metres. The actual path is hundreds of metres of absurd detours. Lush green hedges, colorful flower beds. Photographed from directly above, like a landscape architecture survey photo. Soft afternoon light. No text, no labels, no diagrams, no signs, no people.",
+  "model": "Ideogram 2",
+  "concept": "overfitting",
+  "metaphor": "A garden path that zigzags to touch every single plant instead of taking the straight route — obsessive memorization of every data point at the cost of generalization."
+}
